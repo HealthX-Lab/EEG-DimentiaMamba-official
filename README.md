@@ -1,5 +1,16 @@
-# Dimentia Mamba
+# EEG-SSFormer
 
+## Citation
+
+If you use EEG-SSFormer, please cite
+
+@article {Neves2026EEGSSFormer,
+	author = {Neves, Christopher and Steele, Christopher J and Xiao, Yiming},
+	title = {EEG-SSFormer: Towards a Robust Mamba-Based Architecture for Dementia Detection from Resting State Electroencephalography},
+	year = {2026},
+	doi = {10.64898/2026.03.23.713697},
+	journal = {bioRxiv}
+}
 
 ## Dataset
 
